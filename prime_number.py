@@ -23,6 +23,5 @@ def check_prime_no(num):
 
 input_val = (int(input('Enter any number')))
 
-
 check_prime_no(input_val)
 
