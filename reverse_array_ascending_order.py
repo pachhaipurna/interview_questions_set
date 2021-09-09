@@ -15,7 +15,8 @@ def reverse_array_ascending(input_arr):
                 print(input_arr[i])
 
     print('Reversed array in ascending', input_arr)
+    print(input_arr[-2])
 
-input_arra_data = [23,56,6,78,8,26,18, 2, 8, 7, 1]
+input_arra_data = [10, 14, -12, -5, 2]
 
 reverse_array_ascending(input_arra_data)
